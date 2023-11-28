@@ -1,4 +1,5 @@
 # music_player
+![music player app](https://github.com/ashkan9776/music-player/assets/26205732/4392346e-3fad-43bf-91cf-f1b458a23a1a)
 
 A new Flutter project.
 
